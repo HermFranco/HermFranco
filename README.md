@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **herman.franco@devlabroom.com**
 
-- ⚡ Fun fact **I love F1, Ironman and soccer.**
+- ⚡ Fun fact **I love F1, Ironman and play soccer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
