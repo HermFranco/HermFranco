@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herman Franco</h1>
-<h3 align="center">A passionate frontend developer from IndiaFront-end developer with a passion for building, and growing elegant solutions that are scalable, performant, cost-efficient, and simple, with the ability to anticipate the needs and pain points of developers in implementing them.</h3>
+<h3 align="center">A passionate frontend developer from Mexico 
+
+Front-end developer with a passion for building, and growing elegant solutions that are scalable, performant, cost-efficient, and simple, with the ability to anticipate the needs and pain points of developers in implementing them.</h3>
 
 - 🌱 I’m currently learning **React, Node**
 
